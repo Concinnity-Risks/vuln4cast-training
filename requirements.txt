@@ -24,3 +24,4 @@ hurst
 tqdm
 seaborn
 pandas
+requests
